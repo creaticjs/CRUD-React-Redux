@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 7,
+      "nombre": "Mango Tomi",
+      "precio": "2000"
+    },
+    {
+      "nombre": "Mango",
+      "precio": "1200",
+      "id": 8
+    },
+    {
+      "nombre": "Manzana",
+      "precio": "1000",
+      "id": 9
+    },
+    {
+      "nombre": "Pera Nacional",
+      "precio": "500",
+      "id": 10
+    },
+    {
+      "nombre": "Tomate ",
+      "precio": "1500",
+      "id": 11
+    }
+  ]
+}
